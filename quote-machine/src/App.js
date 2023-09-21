@@ -28,7 +28,7 @@ function App() {
       <div className='quote-text'>
         <i className="fa fa-quote-left"> 
         </i>
-        <span id='text'>{quoteInfo.text}</span>
+        <span id='text'>{quoteInfo.text}hello</span>
       </div>
       <div className='quote-author'>
         <span id="author">- {quoteInfo.author}</span>

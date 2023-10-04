@@ -64,7 +64,6 @@ function App() {
           <button id='decimal' onClick={handleDecimal}>.</button>
           <button id='equals' onClick={handleEqual}>=</button>
         </div>
-        hello
     </div>
     
   );
